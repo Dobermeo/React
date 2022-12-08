@@ -1,0 +1,21 @@
+.tr1 {
+    width: 0%;
+    text-align: left;
+    vertical-align: top;
+    border: 1px solid #000;
+    border-collapse: collapse;
+    padding: 0.3em;
+    caption-side: bottom;
+    background: #3fff00;
+}
+
+.ta1 {
+    width: 0%;
+    text-align: left;
+    vertical-align: top;
+    border: 1px solid #000;
+    border-collapse: collapse;
+    padding: 0.3em;
+    caption-side: bottom;
+    background: #00ffc4;
+}

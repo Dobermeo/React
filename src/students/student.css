@@ -1,0 +1,49 @@
+.tabla1{
+    width: 100%;
+   border: 1px solid #000;
+}
+
+.th1 {
+    width: 0%;
+    text-align: left;
+    vertical-align: top;
+    border: 1px solid #000;
+    border-collapse: collapse;
+    padding: 0.3em;
+    caption-side: bottom;
+    background: #f5f0f0;
+ }
+
+ .td1 {
+   width: 0%;
+   text-align: left;
+   vertical-align: top;
+   border: 1px solid #000;
+   border-collapse: collapse;
+   padding: 0.3em;
+   caption-side: bottom;
+   background: #00ff08;
+}
+
+.btn1 {
+   padding: inherit;
+   font: icon;
+   color: white;
+    background: black;
+}
+
+
+.imgcar{
+   width: 75px;
+}
+
+.tdi{
+   width: 0%;
+   text-align: left;
+   vertical-align: top;
+   border: 1px solid #000;
+   border-collapse: collapse;
+   padding: 0.3em;
+   caption-side: bottom;
+   background: #ffffff;
+}

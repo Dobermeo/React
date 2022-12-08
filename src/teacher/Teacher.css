@@ -1,0 +1,11 @@
+
+.t1 {
+    width: 0%;
+    text-align: left;
+    vertical-align: top;
+    border: 1px solid #212529;
+    border-collapse: collapse;
+    padding: 0.3em;
+    caption-side: bottom;
+    background: #0d6efd;
+}
